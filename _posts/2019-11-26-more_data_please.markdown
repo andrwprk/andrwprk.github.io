@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "More Data Please"
-date:       2019-11-27 02:55:17 +0000
+date:       2019-11-26 21:55:18 -0500
 permalink:  more_data_please
 ---
 
